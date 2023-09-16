@@ -20,7 +20,7 @@ GET http://localhost:3000/previsao-tempo?cidade=Maringa
 
 ```json
 {
-  "cidade": "Nova York",
+  "cidade": "Maringa",
   "temperatura": 22.1,
   "descricao": "Parcialmente nublado"
 }
