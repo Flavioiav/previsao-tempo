@@ -30,7 +30,7 @@ GET http://localhost:3000/previsao-tempo?cidade=Maringa
 
 Antes de usar esta API, certifique-se de configurar sua chave de API do Weatherstack. Substitua `'SUA_CHAVE_API_DO_WEATHERSTACK_AQUI'` no arquivo `app.js` pela sua chave de API válida.
 
-const WEATHERSTACK_API_KEY = 'SUA_CHAVE_API_DO_WEATHERSTACK_AQUI';
+`const WEATHERSTACK_API_KEY = 'SUA_CHAVE_API_DO_WEATHERSTACK_AQUI'`;
 
 ## Executando o Aplicativo
 
