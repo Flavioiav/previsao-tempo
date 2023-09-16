@@ -38,7 +38,7 @@ Para executar a API, siga estas etapas:
 
 1. Clone este repositório.
 2. Instale as dependências com `npm install`.
-3. Execute o aplicativo com node `app.js`.
+3. Execute o aplicativo com node `./src/index.js`.
 
 A API estará disponível em `http://localhost:3000`.
 
